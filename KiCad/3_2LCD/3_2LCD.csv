@@ -1,0 +1,12 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"U1";"Hirose_40P0.50mm_Horizontal_Reverse";1;"LCD_FPC40pin";;;
+2;"C1,C4";"C_0603_1608Metric";2;"0.1u";;;
+3;"C2";"C_0402_1005Metric";1;"10u";;;
+4;"C3";"CP_Radial_D5.0mm_P2.50mm";1;"CP";;;
+5;"J1";"PinHeader_1x14_P2.54mm_Vertical";1;"Conn_01x14";;;
+6;"Q1";"SOT-23";1;"S8050";;;
+7;"R1";"R_0603_1608Metric";1;"R";;;
+8;"R2,R3,R4";"R_0603_1608Metric";3;"10";;;
+9;"R5,R6,R7,R8,R9";"R_0603_1608Metric";5;"10k";;;
+10;"TP1";"TestPoint_Keystone_5000-5004_Miniature";1;"TestPoint";;;
+11;"H1,H2,H3,H4";"MountingHole_2.7mm_M2.5_Pad_TopBottom";4;"MountingHole_Pad";;;
